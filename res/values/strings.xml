@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Website &amp; Suche Tutorial</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="btn_webseite">Webseite öffnen!</string>
+    <string name="such_btn">Nach Begriff suchen!</string>
+
+</resources>
